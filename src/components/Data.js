@@ -8,7 +8,7 @@ export const Data = [
         answer: 'Hill-arious.'
     },
     {
-        question: 'What did the astronaut say when he crashed into thee moon?',
+        question: 'What did the astronaut say when he crashed into the moon?',
         answer: 'I Appollo-gize.'
     },
 ]
